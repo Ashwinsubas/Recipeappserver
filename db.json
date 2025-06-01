@@ -1,0 +1,12 @@
+{
+  "allRecipes": [
+    {
+      "id": "939a",
+      "title": "Chicken Curry",
+      "imgUrl": "https://www.licious.in/blog/wp-content/uploads/2020/12/Chicken-Curry-recipe.jpg",
+      "ingredient": "chicke,masala,onion",
+      "desc": "heat put all",
+      "prepTime": "30 min"
+    }
+  ]
+}
